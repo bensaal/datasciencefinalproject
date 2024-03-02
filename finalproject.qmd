@@ -1,0 +1,15 @@
+---
+title: "Data Science Final Project"
+author: "Ben Saalberg, Christian Kraft, Natalie Gross"
+date: today
+format: 
+    gfm: 
+      toc: true
+      toc-depth: 2
+      fig-height: 4
+      fig-width: 9
+editor: visual
+execute: 
+  echo: true
+  warning: false
+---
